@@ -1,0 +1,21 @@
+.form{
+    width: 60%;
+    margin: 0 auto;
+
+}
+.form>input{
+    padding: 12px 20px;
+    width: 70%;
+    border:  solid 1px pink;
+    border-radius: 5px;
+
+
+}
+.form>button{
+    border:  none;
+    outline: none;
+    padding: 10px 17px;
+    background-color: green;
+    border-radius: 5px;
+    color: pink;
+}
